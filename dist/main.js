@@ -69,11 +69,19 @@
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-throw new Error("Cannot find module \"mod1\"");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__mod1_js__ = __webpack_require__(1);
 
+Object(__WEBPACK_IMPORTED_MODULE_0__mod1_js__["a" /* default */])();
 
+/***/ }),
+/* 1 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-__WEBPACK_IMPORTED_MODULE_0_mod1___default()();
+"use strict";
+/* harmony default export */ __webpack_exports__["a"] = (function(){
+	console.log('this is mod1');
+});
 
 /***/ })
 /******/ ]);
+//# sourceMappingURL=main.js.map
